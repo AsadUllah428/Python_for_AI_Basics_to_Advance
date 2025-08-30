@@ -3,7 +3,7 @@
 
 # Python for AI (Basics to Advanced)
 
-A comprehensive guide covering Python fundamentals and advanced AI techniques, including machine learning, deep learning, and natural language processing (NLP). Utilizes key libraries such as NumPy, Pandas, and TensorFlow to help you build AI applications from scratch. Ideal for both beginners and advanced learners.
+A comprehensive guide covering Python fundamentals. Ideal for both beginners and advanced learners.
 
 ## 📚 Contents
 
